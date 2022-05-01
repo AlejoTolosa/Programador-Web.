@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50;
+}
+
+img {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+#rojo{
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    
+}
